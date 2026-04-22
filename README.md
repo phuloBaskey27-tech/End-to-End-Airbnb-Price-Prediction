@@ -1,11 +1,5 @@
 # 🏠 End-to-End Airbnb Price Prediction
 
-## 👩‍💻 Author
-**Phulo Baskey**  
-B.Tech CSE, National Institute of Technology Jamshedpur  
-
----
-
 ## 📌 Introduction
 In the modern travel ecosystem, platforms like Airbnb have transformed how people find accommodations. However, determining the optimal price for listings remains a key challenge. This project builds a data-driven machine learning system to predict Airbnb listing prices, helping hosts maximize revenue and users find fair pricing.
 
@@ -70,24 +64,36 @@ pip install -r requirements.txt
 # Run the app
 python app.py
 
+## 🌐 Usage
 
-Usage
-Open browser and go to:
-http://localhost:5000
-Enter property details
-Get predicted Airbnb price instantly
-📈 Results
-Achieved strong prediction accuracy using ensemble models
-Improved performance through feature engineering and hyperparameter tuning
-🤝 Contributing
+- Open browser and go to:  
+  `http://localhost:5000`  
+- Enter property details  
+- Get predicted Airbnb price instantly  
+
+---
+
+## 📈 Results
+
+- Achieved strong prediction accuracy using ensemble models  
+- Improved performance through feature engineering and hyperparameter tuning  
+
+---
+
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
-📧 Contact
+---
 
-Phulo Baskey
-📩 phulobaskey2@gmail.com
+## 📧 Contact
 
-⭐ Acknowledgements
-Kaggle Airbnb Dataset
-Open-source ML libraries and contributors
+**Phulo Baskey**  
+📩 phulobaskey2@gmail.com  
+
+---
+
+## ⭐ Acknowledgements
+
+- Kaggle Airbnb Dataset  
+- Open-source ML libraries and contributors  
