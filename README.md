@@ -45,7 +45,7 @@ In the modern travel ecosystem, platforms like Airbnb have transformed how peopl
 
 ## 🚀 Installation Guide
 
-### 🔹 Option 1: Run Locally
+### 🔹 Run Locally
 
 ```bash
 # Clone the repository
